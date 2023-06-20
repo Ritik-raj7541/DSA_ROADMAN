@@ -1,0 +1,17 @@
+NOTE ON HEAP : 
+1. IDENTIFICATION OF HEAP
+   A. K
+   B. SMALLEST / LARGEST
+2. HEAP CAN BE
+   A. MIN HEAP
+   B. MAX HEAP
+
+3.
+  if(k+smallest) -> max heap
+  if(k+largest) -> min heap
+
+4. for max heap -> priority queue
+   for min heap -> priority_queue<int, vector<int>, greater<int>>
+
+5. 
+  
